@@ -1,14 +1,4 @@
 # Centella-Asiatica-
 Centella asiatica, commonly known as gotu kola or tiger grass, is a plant used for centuries in traditional medicine and is popular in modern skincare and food. It has anti-inflammatory, antioxidant, and collagen-boosting properties that help with skin repair, wound healing, and reducing redness.
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/3471ae3f-c2ec-4e84-ad23-a504dbfc12db" />
-Property	Description 
-Scientific name	Centella asiatica
-Common names	Gotu kola, Indian pennywort, Asiatic pennywort
-Family	Apiaceae
-Plant type	Perennial herb
-Habitat	Moist, tropical and subtropical regions
-Native regions	Asia (India, China, Indonesia, Sri Lanka, etc.)
-Main bioactive compounds	Asiaticoside, madecassoside, asiatic acid, madecassic acid
-Traditional uses	Wound healing, improving memory, skin care, anti-inflammatory
-Modern applications	Cosmetics, herbal medicine, dietary supplements
 <img width="630" height="201" alt="image" src="https://github.com/user-attachments/assets/ab946a93-1354-4bbb-8438-d9d43495b33f" />
